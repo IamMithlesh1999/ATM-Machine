@@ -7,4 +7,5 @@ Enter Pin:123
       2.Withdraw Amount                                                                                                                                                  
       3.Deposit Amount                                                                                                                                                   
       4.View Mini Statement                                                                                                                                             
-      5.Exit
+      5.Exit                                                                                                                                                             
+      Enter your choice
